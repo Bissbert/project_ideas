@@ -8,7 +8,6 @@ it's possible I might also cathegorise them :yum:
 
 ## JavaFX Regex tool
 
------
 A Regex Validator tool with Code highlighting and the possiblility to check with some refrence text.                                                                                         
 Could have a sidetab containing a regex refrence document.
 
